@@ -10,3 +10,18 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/hoangthanhnghia/tnghia-bc38.git
 git push -u origin main */
+
+/* git config --global user.email ""
+    git config --global user.name ""
+
+    git init
+    git remote add origin ...
+                            chi lam mot lan
+    --------------------------- 
+
+    git add .
+    git commit -m ""
+    git push
+                            thuong xuyen
+    ---------------------------
+*/
